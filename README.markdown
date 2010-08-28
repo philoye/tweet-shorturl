@@ -11,7 +11,7 @@ The bookmarklet first tries to find any one of the following: `rev='canonical'`,
 
 The idea for this came from [Lachlan Hardy](http://twitter.com/lachlanhardy)'s [Tweet-Canonical](http://github.com/lachlanhardy/tweet-canonical/). 
 
-The bulk of the code came from [Joel Watts](https://gist.github.com/jpwatts)'s [gist](https://gist.github.com/418716/cfa414ffe6c6670e18c6238bee0402e7cd2b9638). I simply swapped the prompt for the Twitter redirect.
+The bulk of the code came from [Joel Watts](https://twitter.com/jpwatts)'s [gist](https://gist.github.com/418716/cfa414ffe6c6670e18c6238bee0402e7cd2b9638). I simply swapped the prompt for the Twitter redirect.
 
 
 ## Installation
